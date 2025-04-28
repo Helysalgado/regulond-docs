@@ -1,39 +1,68 @@
-# ℹ️ About & Policies
+# 📚 RegulonDB Documentation
 
-Welcome to the **About & Policies** section of the RegulonDB documentation.
+Welcome to the **RegulonDB Documentation** repository.
 
-Here you will find important information regarding the identity, operation, and data policies of RegulonDB.  
-This section is intended to ensure transparency, promote FAIR data principles, and guide users in understanding the terms of use, data access, citation requirements, and ethical guidelines associated with RegulonDB.
+This site contains comprehensive documentation about the structure, curation processes, access methods, and use of the data in RegulonDB — a leading knowledgebase of transcriptional regulation in *Escherichia coli* K-12.
 
----
-
-## 📚 Contents
-
-- **[About RegulonDB](about_us.md):** Learn about the history, mission, and scientific scope of the database.
-- **[Contact Us](contact_us.md):** How to get in touch with the RegulonDB team.
-- **[Credits](credits.md):** Acknowledgments to contributors and institutions involved.
-- **[Funding Sources](funding_credits.md):** Details about grants and funding supporting RegulonDB development.
-- **[How to Cite RegulonDB](how_to_cite.md):** Instructions for proper citation in publications.
-- **[FAIR Data Policy](fair_policy.md):** Our commitment to Findable, Accessible, Interoperable, and Reusable data.
-- **[Ethics and Download Policy](ethics_and_download_policy.md):** Ethical considerations and conditions for data reuse.
-- **[License](license.md):** Licensing information covering database content and software.
-- **[Terms and Conditions](terms_conditions.md):** The legal terms governing the use of RegulonDB services and data.
-- **[Privacy Policy](privacy_policy.md):** How user data is handled when interacting with our services.
-- **[Cookie Policy](cookie_policy.md):** Information about cookies used in our web platform.
+Our goal is to provide clear, structured, and FAIR-aligned documentation to support curators, researchers, developers, and the broader scientific community.
 
 ---
 
-## 🎯 Purpose
+## 📚 Documentation Structure
 
-The purpose of this section is to:
-- Maintain transparency regarding RegulonDB’s development and operations.
-- Clearly explain the legal and ethical conditions of use.
-- Facilitate compliance with international FAIR data standards.
-- Foster trust, reuse, and proper attribution of our scientific contributions.
+The documentation is organized into the following main sections:
 
-We encourage all users, curators, and collaborators to review this section carefully.
+- **About & Policies:**  
+  Institutional information, contact details, citation guidelines, FAIR data policies, licensing, privacy, and terms of use.
+
+- **Search & Browse:**  
+  Guides on how to search for genes, operons, regulatory elements, and explore special datasets and ontologies.
+
+- **Data Access & Technical Resources:**  
+  Instructions for downloading datasets, using database dumps, accessing APIs, and deploying local instances with Docker.
+
+- **Tools & Visualizations:**  
+  Manuals for using RegulonDB’s online tools, browsers, query builders, and visual resources.
+
+- **Curation Manual:**  
+  Detailed description of the curation workflows, tools, evidence classification, and quality control processes used to maintain RegulonDB.
+
+- **Releases & Updates:**  
+  Historical release notes and version histories of RegulonDB data and platforms.
+
+- **Tutorials & Videos:**  
+  Multimedia resources including video tutorials demonstrating how to use RegulonDB features and services.
+
+---
+
+## 🎯 Goals
+
+- Enable efficient navigation and usage of RegulonDB data.
+- Foster transparency and reproducibility in curation practices.
+- Promote data interoperability and compliance with FAIR principles.
+- Support new curators, developers, and users with clear and updated guides.
+
+---
+
+## 🛠️ Contributions
+
+We welcome feedback and contributions to improve the documentation.
+
+If you are interested in contributing, please contact the RegulonDB team at:
+
+📧 [regulondb@ccg.unam.mx](mailto:regulondb@ccg.unam.mx)
+
+Guidelines for contributing to the documentation will soon be available.
+
+---
+
+## 📜 License
+
+All documentation materials are distributed under the  
+[Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Please cite RegulonDB appropriately when using data or documentation resources.
+
+---
 
 Thank you for using and supporting RegulonDB! 🌟
-
----
-
